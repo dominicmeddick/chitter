@@ -1,6 +1,6 @@
 # README
 
-# Chitter
+# Chitter: Ruby on Rails project
 
 ## Getting started
 To get started with the app, clone the repo and then install the needed gems:
